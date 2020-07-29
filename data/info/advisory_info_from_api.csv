@@ -1,0 +1,239 @@
+Code,Country,Risk_Rating,Advice
+AD,Andorra,2.8,We advice caution when travelling to Andorra.
+AE,Vereinigte Arabische Emirate,3.1,Please reconsider your need to travel to United Arab Emirates.
+AF,Afghanistan,5.0,It is not safe to travel Afghanistan.
+AG,Antigua und Barbuda,3.0,We advice caution when travelling to Antigua and Barbuda.
+AI,Anguilla,3.0,We advice caution when travelling to Anguilla.
+AL,Albanien,3.3,Please reconsider your need to travel to Albania.
+AM,Armenien,3.2,Please reconsider your need to travel to Armenia.
+AO,Angola,3.0,We advice caution when travelling to Angola.
+AR,Argentinien,3.1,Please reconsider your need to travel to Argentina.
+AS,Amerikanisch-Samoa,4.0,Please reconsider your need to travel to American Samoa.
+AT,Österreich,3.2,Please reconsider your need to travel to Austria.
+AU,Australien,2.7,We advice caution when travelling to Australia.
+AW,Aruba,2.5,We advice caution when travelling to Aruba.
+AZ,Aserbaidschan,3.3,Please reconsider your need to travel to Azerbaijan.
+BA,Bosnien und Herzegowina,3.7,Please reconsider your need to travel to Bosnia and Herzegovina.
+BB,Barbados,2.8,We advice caution when travelling to Barbados.
+BD,Bangladesch,3.5,Please reconsider your need to travel to Bangladesh.
+BE,Belgien,3.4,Please reconsider your need to travel to Belgium.
+BF,Burkina Faso,3.9,Please reconsider your need to travel to Burkina Faso.
+BG,Bulgarien,3.6,Please reconsider your need to travel to Bulgaria.
+BH,Bahrain,3.0,We advice caution when travelling to Bahrain.
+BI,Burundi,4.8,It is not safe to travel Burundi.
+BJ,Benin,3.3,Please reconsider your need to travel to Benin.
+BL,Saint-Barthélemy,4.0,Please reconsider your need to travel to Saint Barthélemy.
+BM,Bermuda,3.0,We advice caution when travelling to Bermuda.
+BN,Brunei Darussalam,3.2,Please reconsider your need to travel to Brunei.
+BO,Bolivien,3.3,Please reconsider your need to travel to Bolivia.
+BR,Brasilien,3.6,Please reconsider your need to travel to Brazil.
+BS,Bahamas,3.3,Please reconsider your need to travel to Bahamas.
+BT,Bhutan,3.2,Please reconsider your need to travel to Bhutan.
+BW,Botswana,3.2,Please reconsider your need to travel to Botswana.
+BY,Belarus,3.5,Please reconsider your need to travel to Belarus.
+BZ,Belize,3.2,Please reconsider your need to travel to Belize.
+CA,Kanada,3.2,Please reconsider your need to travel to Canada.
+CC,Kokosinseln,0.0,Travelling Cocos Islands is (relatively) safe.
+CD,Demokratische Republik Kongo,3.9,Please reconsider your need to travel to Democratic Republic of the Congo.
+CF,Zentralafrikanische Republik,5.0,It is not safe to travel Central African Republic.
+CG,Republik Kongo,2.8,We advice caution when travelling to Republic of the Congo.
+CH,Schweiz,4.0,Please reconsider your need to travel to Switzerland.
+CI,Elfenbeinküste,3.3,Please reconsider your need to travel to Ivory Coast.
+CK,Cookinseln,4.5,Please reconsider your need to travel to Cook Islands.
+CL,Chile,3.6,Please reconsider your need to travel to Chile.
+CM,Kamerun,3.1,Please reconsider your need to travel to Cameroon.
+CN,China,4.1,Please reconsider your need to travel to China.
+CO,Kolumbien,3.3,Please reconsider your need to travel to Colombia.
+CR,Costa Rica,3.2,Please reconsider your need to travel to Costa Rica.
+CU,Kuba,3.4,Please reconsider your need to travel to Cuba.
+CV,Kap Verde,2.8,We advice caution when travelling to Cape Verde.
+CX,Weihnachtsinsel,0.0,Travelling Christmas Island is (relatively) safe.
+CY,Zypern,2.6,We advice caution when travelling to Cyprus.
+CZ,Tschechische Republik,3.2,Please reconsider your need to travel to Czech Republic.
+DE,Deutschland,3.1,Please reconsider your need to travel to Germany.
+DJ,Dschibuti,3.0,We advice caution when travelling to Djibouti.
+DK,Dänemark,3.2,Please reconsider your need to travel to Denmark.
+DM,Dominica,3.3,Please reconsider your need to travel to Dominica.
+DO,Dominikanische Republik,3.4,Please reconsider your need to travel to Dominican Republic.
+DZ,Algerien,3.2,Please reconsider your need to travel to Algeria.
+EC,Ecuador,3.4,Please reconsider your need to travel to Ecuador.
+EE,Estland,2.7,We advice caution when travelling to Estonia.
+EG,Ägypten,3.4,Please reconsider your need to travel to Egypt.
+EH,Westsahara,0.0,Travelling Western Sahara is (relatively) safe.
+ER,Eritrea,3.4,Please reconsider your need to travel to Eritrea.
+ES,Spanien,3.4,Please reconsider your need to travel to Spain.
+ET,Äthiopien,3.3,Please reconsider your need to travel to Ethiopia.
+FI,Finnland,2.8,We advice caution when travelling to Finland.
+FJ,Fidschi,3.2,Please reconsider your need to travel to Fiji.
+FK,Falklandinseln,4.0,Please reconsider your need to travel to Falkland Islands.
+FM,Mikronesien,4.0,Please reconsider your need to travel to Micronesia.
+FO,Färöer,0.0,Travelling Faroe Islands is (relatively) safe.
+FR,Frankreich,3.5,Please reconsider your need to travel to France.
+GA,Gabun,3.5,Please reconsider your need to travel to Gabon.
+GB,Vereinigtes Königreich,3.4,Please reconsider your need to travel to United Kingdom.
+GD,Grenada,3.0,We advice caution when travelling to Grenada.
+GE,Georgien,3.0,We advice caution when travelling to Georgia.
+GF,Französisch-Guayana,4.0,Please reconsider your need to travel to French Guiana.
+GG,Guernsey,0.0,Travelling Guernsey is (relatively) safe.
+GH,Ghana,3.6,Please reconsider your need to travel to Ghana.
+GI,Gibraltar,4.0,Please reconsider your need to travel to Gibraltar.
+GL,Grönland,4.0,Please reconsider your need to travel to Greenland.
+GM,Gambia,3.0,We advice caution when travelling to Gambia.
+GN,Guinea,3.4,Please reconsider your need to travel to Guinea.
+GP,Guadeloupe,4.0,Please reconsider your need to travel to Guadeloupe.
+GQ,Äquatorialguinea,3.0,We advice caution when travelling to Equatorial Guinea.
+GR,Griechenland,2.6,We advice caution when travelling to Greece.
+GT,Guatemala,3.3,Please reconsider your need to travel to Guatemala.
+GU,Guam,4.5,Please reconsider your need to travel to Guam.
+GW,Guinea-Bissau,3.3,Please reconsider your need to travel to Guinea-Bissau.
+GY,Guyana,3.4,Please reconsider your need to travel to Guyana.
+HK,Hongkong,3.3,Please reconsider your need to travel to Hong Kong.
+HN,Honduras,3.7,Please reconsider your need to travel to Honduras.
+HR,Kroatien,3.2,Please reconsider your need to travel to Croatia.
+HT,Haiti,4.4,Please reconsider your need to travel to Haiti.
+HU,Ungarn,2.7,We advice caution when travelling to Hungary.
+ID,Indonesien,4.0,Please reconsider your need to travel to Indonesia.
+IE,Irland,3.2,Please reconsider your need to travel to Ireland.
+IL,Israel,3.5,Please reconsider your need to travel to Israel.
+IM,Insel Man,0.0,Travelling Isle of Man is (relatively) safe.
+IN,Indien,3.5,Please reconsider your need to travel to India.
+IQ,Irak,4.7,It is not safe to travel Iraq.
+IR,"Iran, Islamische Republik",4.6,It is not safe to travel Iran.
+IS,Island,3.2,Please reconsider your need to travel to Iceland.
+IT,Italien,3.2,Please reconsider your need to travel to Italy.
+JE,Jersey,0.0,Travelling Jersey is (relatively) safe.
+JM,Jamaika,3.3,Please reconsider your need to travel to Jamaica.
+JO,Jordanien,3.3,Please reconsider your need to travel to Jordan.
+JP,Japan,3.3,Please reconsider your need to travel to Japan.
+KE,Kenia,3.2,Please reconsider your need to travel to Kenya.
+KG,Kirgisistan,2.6,We advice caution when travelling to Kyrgyzstan.
+KH,Kambodscha,3.3,Please reconsider your need to travel to Cambodia.
+KI,Kiribati,2.5,We advice caution when travelling to Kiribati.
+KM,Komoren,3.0,We advice caution when travelling to Comoros.
+KN,St. Kitts und Nevis,3.0,We advice caution when travelling to Saint Kitts and Nevis.
+KP,Nordkorea,4.3,Please reconsider your need to travel to North Korea.
+KR,Südkorea,3.3,Please reconsider your need to travel to South Korea.
+KW,Kuwait,3.0,We advice caution when travelling to Kuwait.
+KY,Kaimaninseln,3.0,We advice caution when travelling to Cayman Islands.
+KZ,Kasachstan,3.0,We advice caution when travelling to Kazakhstan.
+LA,Laos,3.0,We advice caution when travelling to Laos.
+LB,Libanon,3.4,Please reconsider your need to travel to Lebanon.
+LC,St. Lucia,3.0,We advice caution when travelling to Saint Lucia.
+LI,Liechtenstein,2.8,We advice caution when travelling to Liechtenstein.
+LK,Sri Lanka,3.4,Please reconsider your need to travel to Sri Lanka.
+LR,Liberia,3.2,Please reconsider your need to travel to Liberia.
+LS,Lesotho,3.2,Please reconsider your need to travel to Lesotho.
+LT,Litauen,2.7,We advice caution when travelling to Lithuania.
+LU,Luxemburg,2.8,We advice caution when travelling to Luxembourg.
+LV,Lettland,2.7,We advice caution when travelling to Latvia.
+LY,Libyen,5.0,It is not safe to travel Libya.
+MA,Marokko,3.1,Please reconsider your need to travel to Morocco.
+MC,Monaco,2.3,We advice caution when travelling to Monaco.
+MD,Moldawien,3.0,We advice caution when travelling to Moldova.
+ME,Montenegro,3.5,Please reconsider your need to travel to Montenegro.
+MF,Saint-Martin,4.0,Please reconsider your need to travel to Saint Martin.
+MG,Madagaskar,3.1,Please reconsider your need to travel to Madagascar.
+MH,Marshallinseln,3.3,Please reconsider your need to travel to Marshall Islands.
+MK,Mazedonien,2.3,We advice caution when travelling to Macedonia.
+ML,Mali,4.7,It is not safe to travel Mali.
+MM,Myanmar,3.3,Please reconsider your need to travel to Myanmar.
+MN,Mongolei,4.0,Please reconsider your need to travel to Mongolia.
+MO,Macau,2.7,We advice caution when travelling to Macao.
+MP,Nördliche Marianen,0.0,Travelling Northern Mariana Islands is (relatively) safe.
+MQ,Martinique,4.0,Please reconsider your need to travel to Martinique.
+MR,Mauretanien,3.7,Please reconsider your need to travel to Mauritania.
+MS,Montserrat,3.0,We advice caution when travelling to Montserrat.
+MT,Malta,2.6,We advice caution when travelling to Malta.
+MU,Mauritius,3.2,Please reconsider your need to travel to Mauritius.
+MV,Malediven,3.5,Please reconsider your need to travel to Maldives.
+MW,Malawi,3.4,Please reconsider your need to travel to Malawi.
+MX,Mexiko,3.6,Please reconsider your need to travel to Mexico.
+MY,Malaysia,3.3,Please reconsider your need to travel to Malaysia.
+MZ,Mosambik,3.2,Please reconsider your need to travel to Mozambique.
+NA,Namibia,3.2,Please reconsider your need to travel to Namibia.
+NC,Neukaledonien,3.3,Please reconsider your need to travel to New Caledonia.
+NE,Niger,4.1,Please reconsider your need to travel to Niger.
+NF,Norfolkinsel,0.0,Travelling Norfolk Island is (relatively) safe.
+NG,Nigeria,3.7,Please reconsider your need to travel to Nigeria.
+NI,Nicaragua,4.0,Please reconsider your need to travel to Nicaragua.
+NL,Niederlande,3.4,Please reconsider your need to travel to Netherlands.
+NO,Norwegen,2.6,We advice caution when travelling to Norway.
+NP,Nepal,3.3,Please reconsider your need to travel to Nepal.
+NU,Niue,4.0,Please reconsider your need to travel to Niue.
+NZ,Neuseeland,3.2,Please reconsider your need to travel to New Zealand.
+OM,Oman,3.2,Please reconsider your need to travel to Oman.
+PA,Panama,2.8,We advice caution when travelling to Panama.
+PE,Peru,3.4,Please reconsider your need to travel to Peru.
+PF,Französisch-Polynesien,3.3,Please reconsider your need to travel to French Polynesia.
+PG,Papua-Neuguinea,3.3,Please reconsider your need to travel to Papua New Guinea.
+PH,Philippinen,3.4,Please reconsider your need to travel to Philippines.
+PK,Pakistan,4.0,Please reconsider your need to travel to Pakistan.
+PL,Polen,3.2,Please reconsider your need to travel to Poland.
+PM,Saint-Pierre und Miquelon,0.0,Travelling Saint Pierre and Miquelon is (relatively) safe.
+PN,Pitcairninseln,0.0,Travelling Pitcairn is (relatively) safe.
+PR,Puerto Rico,4.0,Please reconsider your need to travel to Puerto Rico.
+PS,Palästina,3.7,Please reconsider your need to travel to Palestinian Territory.
+PT,Portugal,3.6,Please reconsider your need to travel to Portugal.
+PW,Palau,3.3,Please reconsider your need to travel to Palau.
+PY,Paraguay,3.2,Please reconsider your need to travel to Paraguay.
+QA,Katar,3.0,We advice caution when travelling to Qatar.
+RE,Réunion,4.0,Please reconsider your need to travel to Reunion.
+RO,Rumänien,3.6,Please reconsider your need to travel to Romania.
+RS,Serbien,4.0,Please reconsider your need to travel to Serbia.
+RU,Russische Föderation,3.4,Please reconsider your need to travel to Russia.
+RW,Ruanda,3.0,We advice caution when travelling to Rwanda.
+SA,Saudi-Arabien,3.1,Please reconsider your need to travel to Saudi Arabia.
+SB,Salomonen,3.5,Please reconsider your need to travel to Solomon Islands.
+SC,Seychellen,3.2,Please reconsider your need to travel to Seychelles.
+SD,Sudan,4.1,Please reconsider your need to travel to Sudan.
+SE,Schweden,3.5,Please reconsider your need to travel to Sweden.
+SG,Singapur,3.3,Please reconsider your need to travel to Singapore.
+SH,St. Helena,0.0,Travelling Saint Helena is (relatively) safe.
+SI,Slowenien,2.8,We advice caution when travelling to Slovenia.
+SJ,Svalbard und Jan Mayen,0.0,Travelling Svalbard and Jan Mayen is (relatively) safe.
+SK,Slowakei,2.0,Travelling Slovakia is (relatively) safe.
+SL,Sierra Leone,3.4,Please reconsider your need to travel to Sierra Leone.
+SM,San Marino,4.5,Please reconsider your need to travel to San Marino.
+SN,Senegal,3.5,Please reconsider your need to travel to Senegal.
+SO,Somalia,5.0,It is not safe to travel Somalia.
+SR,Suriname,3.0,We advice caution when travelling to Suriname.
+ST,São Tomé und Príncipe,3.0,We advice caution when travelling to Sao Tome and Principe.
+SV,El Salvador,3.3,Please reconsider your need to travel to El Salvador.
+SY,Syrien,5.0,It is not safe to travel Syria.
+SZ,Swasiland,2.3,We advice caution when travelling to Swaziland.
+TC,Turks- und Caicosinseln,3.3,Please reconsider your need to travel to Turks and Caicos Islands.
+TD,Tschad,3.7,Please reconsider your need to travel to Chad.
+TG,Togo,3.0,We advice caution when travelling to Togo.
+TH,Thailand,3.0,We advice caution when travelling to Thailand.
+TJ,Tadschikistan,3.5,Please reconsider your need to travel to Tajikistan.
+TL,Osttimor (Timor-Leste),3.3,Please reconsider your need to travel to East Timor.
+TM,Turkmenistan,3.6,Please reconsider your need to travel to Turkmenistan.
+TN,Tunesien,3.1,Please reconsider your need to travel to Tunisia.
+TO,Tonga,3.3,Please reconsider your need to travel to Tonga.
+TR,Türkei,3.6,Please reconsider your need to travel to Turkey.
+TT,Trinidad und Tobago,3.3,Please reconsider your need to travel to Trinidad and Tobago.
+TV,Tuvalu,2.5,We advice caution when travelling to Tuvalu.
+TW,Taiwan,3.0,We advice caution when travelling to Taiwan.
+TZ,Tansania,3.3,Please reconsider your need to travel to Tanzania.
+UA,Ukraine,3.5,Please reconsider your need to travel to Ukraine.
+UG,Uganda,3.4,Please reconsider your need to travel to Uganda.
+US,Vereinigte Staaten von Amerika,3.2,Please reconsider your need to travel to United States.
+UY,Uruguay,3.4,Please reconsider your need to travel to Uruguay.
+UZ,Usbekistan,3.0,We advice caution when travelling to Uzbekistan.
+VA,Vatikanstadt,5.0,It is not safe to travel Vatican.
+VC,St. Vincent und die Grenadinen,2.5,We advice caution when travelling to Saint Vincent and the Grenadines.
+VE,Venezuela,4.4,Please reconsider your need to travel to Venezuela.
+VG,Britische Jungferninseln,3.0,We advice caution when travelling to British Virgin Islands.
+VI,Amerikanische Jungferninseln,4.0,Please reconsider your need to travel to U.S. Virgin Islands.
+VN,Vietnam,3.3,Please reconsider your need to travel to Vietnam.
+VU,Vanuatu,3.3,Please reconsider your need to travel to Vanuatu.
+WF,Wallis und Futuna,0.0,Travelling Wallis and Futuna is (relatively) safe.
+WS,Samoa,3.5,Please reconsider your need to travel to Samoa.
+YE,Jemen,5.0,It is not safe to travel Yemen.
+YT,Mayotte,4.0,Please reconsider your need to travel to Mayotte.
+ZA,Südafrika,3.6,Please reconsider your need to travel to South Africa.
+ZM,Sambia,3.2,Please reconsider your need to travel to Zambia.
+ZW,Simbabwe,3.3,Please reconsider your need to travel to Zimbabwe.
+GS,Reisen nach  sind weitestgehend sicher.,0.0,Travelling  is (relatively) safe.
+XK,Reisen nach  sollten nur wenn nötig unternommen werden.,3.4,Please reconsider your need to travel to .
+SS,Aktuell wird von Reisen nach  abgeraten.,5.0,It is not safe to travel .
