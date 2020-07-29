@@ -10,7 +10,7 @@ import os
 
 
 
-app = Flask(__name__)
+app = Flask(__name__,static_url_path='')
 
 @app.route("/")
 @cross_origin()
@@ -73,6 +73,38 @@ def index4():
 @cross_origin()
 def index5():
 	return render_template('index5.html')	
+
+
+@app.route("/index6")
+@cross_origin()
+def index6():
+	return render_template('index6.html')
+
+@app.route("/india_map1")
+def get_map1():
+	#return render_template('india_map1.html')
+	return render_template('india_map1.html')
+
+
+@app.route("/india_map2")
+def get_map2():
+	#return render_template('india_map1.html')
+	return render_template('india_map2.html')
+
+
+@app.route("/world_map1")
+def get_map3():
+	#return render_template('india_map1.html')
+	return render_template('world_map1.html')
+
+
+@app.route("/world_map2")
+def get_map4():
+	#return render_template('india_map1.html')
+	return render_template('world_map2.html')
+
+
+	
 
 #######################################################################3333333
 

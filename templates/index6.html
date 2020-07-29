@@ -1,115 +1,135 @@
 <!DOCTYPE html>
 <html lang="en">
- 
 <head>
-    <title>GoYanna Travel Advisory -  Lat , Long</title>
- 
- 
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
- 
-   
-   <style type="text/css">
-       .footer {
-   position: fixed;
+  <title>GoYaana - Travel Advisory</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
+
+ <style type="text/css">
+   .row{height:90px;}
+
+   .home
+ {  left: 15px; top:15px; }
+
+   .footer {
+   position: sticky;
    left: 0;
    bottom: 0;
-
    width: 100%;
    background-color: Dodgerblue;
    color: white;
    text-align: center;
-}     
+}
 
-.home
- {  left: 15px; top:15px; }
-  
-   </style>
+ </style>
 
 
 </head>
- 
-<body>
+<body> 
 
-     <button class="btn btn-success col-2 home" id="b1">Back To Home</button>
+   <button class="btn btn-success col-2 home" id="bb1">Back To Home</button>
      <br> <br><br> <br>
- 
-    <div class="container">
-        <!--
-        <div class="header">
-            <nav>
-                <ul class="nav nav-pills pull-right">
-                    <li role="presentation" class="active"><a href="#">Home</a>
-                    </li>
-                    <li role="presentation"><a href="#">Sign In</a>
-                    </li>
-                    <li role="presentation"><a href="showSignUp">Sign Up</a>
-                    </li>
-                </ul>
-            </nav>
-            <h3 class="text-muted">Python Flask Applicatio</h3>
-        </div>
-    -->
- 
-        <div class="jumbotron">
-            <h1>Travel Advisory</h1>
-            
-            
-        </div>
 
-     
- 
-         <div class="container">
+<div class='container'>
+
+<div class="jumbotron">
+  <h3 style="text-align: center;">GoYaana Travel Advisory</h3>
+</div>
+
+<br><br>
 
 
+<div class="container">
 
-        <form action="\advisoryinfo_googleformat" method="post">
+ <h4>Covid Maps - India </h4>
 
+          <div class="row">
 
-    
+             
+                <br>
+                <div class="col-sm-6">
 
-            <div class="row">
-               <div class="col-sm-3">
-                    <div class="card">
+                    <div class="card" >
+                        <div class="card-body">
+                            
+                            <h5 class="card-subtitle mb-2 text-muted" > India Chloropleth </h5><br>
+                            <button id="b1" type="button" class="btn btn-primary col-8">Map - 1</button>
+                        </div>
                     </div>
                 </div>
+                <div class="col-sm-6">
+                    <div class="card">
+                        <div class="card-body">
+                            <h5 class="card-subtitle mb-2 text-muted">
+                              India Terrain 
+                            </h5>
+                            <!-- Destination --><br>
+                            <button type="button" class="btn btn-primary col-8" id="b2">Map - 2 </button>
+                        </div>
+                    </div>
+                </div>
+         </div>
 
+  
+<br><br><br>
+          
+      <h4>Covid Maps - World </h4>
+           
+         <div class="row">
+                <div class="col-sm-6  ">
+                    <div class="card">
+                        <div class="card-body">
+                            <!-- Source -->
+                            <h5 class="card-subtitle mb-2 text-muted">World Chloropleth</h5><br>
+                            <button type="button" class="btn btn-primary col-8" id="b3">Map - 1 </button>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-6">
+                    <div class="card">
+                        <div class="card-body">
+                            <h5 class="card-subtitle mb-2 text-muted">World Terrain</h5><br>
+                            <!-- Destination -->
+                            <button type="button" class="btn btn-primary col-8" id="b4">Map - 2</button>
+                        </div>
+                    </div>
+                </div>
+          </div>
+  
+  <br><br><br>
+
+         <div class="row">
                 <div class="col-sm-6">
                     <div class="card">
                         <div class="card-body">
                             <!-- Source -->
-                            <h5 class="card-subtitle mb-2 text-muted">Latitude, Longitude <small>Google Format</small></h5>
-                            <input type="text" required id="latlong" name="latlong">
+                            <h5 class="card-subtitle mb-2 text-muted">Upcoming</small> </h5><br>
+                            <button type="button" disabled='true' class="btn btn-primary col-8" id="b5">Search</button>
                         </div>
                     </div>
                 </div>
-
-                <div class="col-sm-3">
+                <div class="col-sm-6">
                     <div class="card">
+                        <div class="card-body">
+                            <h5 class="card-subtitle mb-2 text-muted">Upcoming</h5><br>
+                            <!-- Destination -->
+                            <button type="button" disabled='true'  class="btn btn-primary col-8" id="b6">Search</button>
                     </div>
                 </div>
-            </div>
 
+          </div>
 
+</div> </div>         
 
-            <br>
-            <br>
-            <br>
-            <!-- Submit -->
-            <center><input type="submit" value="Submit!" class="btn btn-secondary"></center>
-        </form>
+ <br><br><br>
 
+</div>
 
-
-
-        <br>
-        <br>
-        <p>{% autoescape false %}{{entered_text}}{% endautoescape %}</p>
-
-        <br>
-        <br>
-        
-
- <footer class="page-footer font-small blue">
+<footer class="page-footer font-large blue">
 
   <!-- Copyright -->
   <div class="footer text-center">© 2020 Copyright : &nbsp; GoYaana
@@ -118,19 +138,37 @@
 
 </footer>
 
+<script>
+   document.getElementById("b1").addEventListener("click", function(){  window.open('./india_map1','_blank') });
+</script>
 
 <script>
-   document.getElementById("b1").addEventListener("click", function(){  window.location.href='home' });
+   document.getElementById("b2").addEventListener("click", function(){  window.open('./india_map2','_blank') });
+</script>
+
+<script>
+   document.getElementById("b3").addEventListener("click", function(){  window.open('./world_map1','_blank') });
+</script>
+
+<script>
+   document.getElementById("b4").addEventListener("click", function(){  window.open('./world_map2','_blank') });
 </script>
 
 
+<script>
+   document.getElementById("bb1").addEventListener("click", function(){  window.open('/home') });
+</script>
 
 
-  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
-<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
+<script>
+   document.getElementById("b5").addEventListener("click", function(){  window.open('./index5' });
+</script>
+
+
+<script>
+   document.getElementById("b6").addEventListener("click", function(){  window.location.href='./index6' });
+</script>
 
 
 </body>
- 
 </html>
