@@ -9,7 +9,7 @@
 
 
 ## Overview
-This is a Flask web app which gathers Travel Advisory information .
+This is a Flask web app which serves as a  Travel Advisory application.
 
 ## Internship
 This work is part of the Data Science internship in GoYaana .
