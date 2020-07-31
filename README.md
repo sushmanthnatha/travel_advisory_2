@@ -46,7 +46,7 @@ pip install -r requirements.txt
 
 ![](https://forthebadge.com/images/badges/made-with-python.svg)
 
-[<img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=170>](https://flask.palletsprojects.com/en/1.1.x/)[<img target="_blank" src="https://funthon.files.wordpress.com/2017/05/bs.png?w=772">](https://funthon.files.wordpress.com/2017/05/bs.png?w=772)  [<img target="_blank" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width=200>](https://scikit-learn.org/stable/) 
+[<img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=170>](https://flask.palletsprojects.com/en/1.1.x/)[<img target="_blank" src="https://funthon.files.wordpress.com/2017/05/bs.png?w=772" width=170>](https://funthon.files.wordpress.com/2017/05/bs.png?w=772)  [<img target="_blank" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width=200>](https://scikit-learn.org/stable/) 
 
 
 ## Bug / Feature Request
