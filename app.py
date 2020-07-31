@@ -7,6 +7,7 @@ import reverse_geocoder as rg
 import tempfile
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
 import os
+import re
 
 
 
@@ -22,10 +23,21 @@ def main():
 def home():
 	return render_template('home.html')	
 
+"""
 @app.route("/index")
 @cross_origin()
 def index():
-	return render_template('index.html')
+	dlat = request.args.get('lat', default =20.5937 , type = int)
+	dlong = request.args.get('long', default = 78.9629, type = int)
+	return render_template('index.html',latitude=dlat,longitude=dlong)
+"""
+
+@app.route("/index",methods=["GET"])
+def index():
+	dlat = request.args.get('lat', default =20.5937 , type = int)
+	dlong = request.args.get('long', default = 78.9629, type = int)
+	return render_template('index.html',latitude=dlat,longitude=dlong)
+
 
 
 @app.route("/index2")
@@ -331,10 +343,24 @@ def advisoryinfo():
 def advisoryinfo__googleformat():
 	if request.method == "POST":
 		dlatlong  = request.form["latlong"]
-		li=dlatlong.split(', ')
-		li[1]=li[1].rstrip()
-		ans=" You entered Latitute - {} \n Longiitude - {} ".format(li[0],li[1])
-		dlat=float(li[0][:-3]) ; dlong=float(li[1][:-3])
+		# your code goes here# your code goes here
+
+
+
+		
+		pattern = '([0-9]+\.[0-9]+)[^a-zA-Z]*([N|S|n|s]{1})[^0-9]*([0-9]+\.[0-9]+)[^a-zA-Z]*([W|E|w|e])'
+		
+		r = re.findall(pattern, dlatlong)
+		r = r[0]
+		
+
+		ans=" You entered Latitute - {} {}\n Longiitude - {} {}".format(r[0],r[1].upper(),r[2],r[3].upper())
+		dlat=float(r[0]) ; dlong=float(r[2])
+
+		if r[1]=='S' or r[1]=='s':
+			dlat=-dlat
+		if r[3]=='W' or r[3]=='w':
+			dlong=-dlong
 
 		latlong=(dlat,dlong)
 		results=rg.search(latlong)

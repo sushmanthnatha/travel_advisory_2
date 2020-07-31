@@ -73,7 +73,7 @@
                         <div class="card-body">
                             <!-- Source -->
                             <h5 class="card-subtitle mb-2 text-muted">Latitude</h5>
-                            <input type="text" required id="lat" name="lat">
+                            <input type="text" required id="lat" name="lat" >
                         </div>
                     </div>
                 </div>
@@ -82,7 +82,7 @@
                         <div class="card-body">
                             <h5 class="card-subtitle mb-2 text-muted">Longitude</h5>
                             <!-- Destination -->
-                            <input type="text" required id="long" name="long">
+                            <input type="text" required id="long" name="long" >
                         </div>
                     </div>
                 </div>
@@ -118,6 +118,14 @@
 </footer>
 
 <script>
+
+     window.onload = function() 
+    {
+        var msg = window.location.href.match(/\?lat=(.*)&long=(.*)/);
+        document.getElementById("lat").value = msg[1];
+        document.getElementById("long").value = msg[2];
+
+    };
    document.getElementById("b1").addEventListener("click", function(){  window.location.href='home' });
 </script>
 

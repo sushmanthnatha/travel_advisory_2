@@ -120,6 +120,17 @@
 
 
 <script>
+
+     window.onload = function() 
+    {
+        var msg = window.location.href.match(/\?latlong=(.*)/);
+        dlatlong= decodeURI(msg[1])
+        
+        document.getElementById("latlong").value = dlatlong;
+        
+
+    };
+
    document.getElementById("b1").addEventListener("click", function(){  window.location.href='home' });
 </script>
 
